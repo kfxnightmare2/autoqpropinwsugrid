@@ -1,5 +1,6 @@
 Attoclock Automation Script
 
+This is not the official qprop program it is just a python code which help to run multiple files in a grid. Qprop program is owned by Univeristy of Rostock and can be found in here. https://www.qtmps.physik.uni-rostock.de/forschung/qprop/qprop/
 This script automates the process of modifying specific parameters in the propagate.param file, creating a new calculation directory, copying necessary files, and submitting a SLURM job for attoclock calculations.
 
 Pre-requisites
