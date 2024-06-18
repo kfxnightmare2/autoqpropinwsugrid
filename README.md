@@ -10,8 +10,8 @@ Before running the script, ensure you have the required modules loaded:
 module load gsl
 module load gnu7
 
-Create a folder named "argonattocal" in your home directory
-Copy the "main" folder into your home directory
+Create a folder named "argonattocal" and "main" in your home directory
+Copy the "qprop_3.2" folder into your home directory (have to download from offical qprop website)
 
 Edit the script to update the paths on lines 36, 37, and 121 to match your access ID. Change gw/gw45/gw4592 to your specific access ID.
 
