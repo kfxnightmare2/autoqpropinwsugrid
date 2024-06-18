@@ -20,12 +20,9 @@ python attoclockauto.py
 
 User Prompts
 When running the script, you will be prompted to enter the following information:
-Electric Field Value:
 
-Enter the desired electric field value to replace the current value in the propagate.param file.
-Omega Value:
+Electric Field Value: Enter the desired electric field value to replace the current value in the propagate.param file.
 
-Enter the desired omega value to replace the current value in the propagate.param file.
-Calculation Name:
+Omega Value: Enter the desired omega value to replace the current value in the propagate.param file.
 
-Enter the name of the calculation. This will be used to create a new folder and as the job name for SLURM submission.
+Calculation Name: Enter the name of the calculation. This will be used to create a new folder and as the job name for SLURM submission.
